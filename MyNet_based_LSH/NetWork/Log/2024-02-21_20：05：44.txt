@@ -1,0 +1,18 @@
+[2024-02-21 20:05:44,156][Net.py][line:137][INFO] model path: C:/Users/szfmsmdx/Desktop/毕业论文/MyNet_based_LSH/NetWork/Model/2024-02-21_20：05：44 created!
+[2024-02-21 20:05:44,156][Net.py][line:140][INFO] start training!
+[2024-02-21 20:05:44,176][Net.py][line:153][INFO] epoch 0 finished!
+[2024-02-21 20:05:44,189][Net.py][line:153][INFO] epoch 1 finished!
+[2024-02-21 20:05:44,203][Net.py][line:153][INFO] epoch 2 finished!
+[2024-02-21 20:05:44,215][Net.py][line:153][INFO] epoch 3 finished!
+[2024-02-21 20:05:44,231][Net.py][line:153][INFO] epoch 4 finished!
+[2024-02-21 20:05:44,244][Net.py][line:153][INFO] epoch 5 finished!
+[2024-02-21 20:05:44,253][Net.py][line:153][INFO] epoch 6 finished!
+[2024-02-21 20:05:44,270][Net.py][line:153][INFO] epoch 7 finished!
+[2024-02-21 20:05:44,283][Net.py][line:153][INFO] epoch 8 finished!
+[2024-02-21 20:05:44,298][Net.py][line:153][INFO] epoch 9 finished!
+[2024-02-21 20:05:44,305][Net.py][line:156][INFO] training loss saved!
+[2024-02-21 20:05:44,306][Net.py][line:157][INFO] training finished!
+[2024-02-21 20:05:44,311][Net.py][line:113][INFO] start evaluating!
+[2024-02-21 20:05:44,324][Net.py][line:131][INFO] max accuracy: 0.0
+[2024-02-21 20:05:44,324][Net.py][line:132][INFO] evaluating loss saved!
+[2024-02-21 20:05:44,324][Net.py][line:133][INFO] evaluating finished!
